@@ -1,4 +1,0 @@
-RGB Dataset-1 - https://www.kaggle.com/datasets/nizorogbezuode/rice-leaf-images
-RGB Dataset-2 - https://www.kaggle.com/datasets/bahribahri/riceleaf/data
-RGB Dataset-3 - https://www.kaggle.com/datasets/adefiqri12/riceleafsv3
-Thermal Dataset - https://www.kaggle.com/datasets/sujaradha/thermal-images-diseased-healthy-leaves-paddy?resource=download
